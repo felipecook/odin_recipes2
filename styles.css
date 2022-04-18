@@ -1,0 +1,18 @@
+body {
+  font-family: 'Courier New', Courier, monospace;
+  display: flex;
+  flex-direction: column;
+}
+
+.h-full {
+  height: 100%;
+
+}
+
+.container {
+  width: 100%;
+}
+
+nav {
+  display: block;
+}
